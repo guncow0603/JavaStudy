@@ -19,7 +19,7 @@ public class JavaStudy15 {
             System.out.print(number + " ");
         }
 
-        System.out.println("---------------");
+        System.out.println("");
 
 
         for( int i =0 ; i < numbers.length ; i++ ) {
