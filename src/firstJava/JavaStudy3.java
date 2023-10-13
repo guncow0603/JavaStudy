@@ -26,7 +26,6 @@ public class JavaStudy3 {
         System.out.println("Int Type =>  " + intNumber);
 
 
-
         //정수 -> 실수
         int intNumber1 = 10;
 
