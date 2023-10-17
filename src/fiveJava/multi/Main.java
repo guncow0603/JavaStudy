@@ -10,6 +10,7 @@ public class Main {
                 System.out.print("$");
             }
         };
+
         //2nd
         Runnable task2 = () -> {
             for (int i = 0; i < 100; i++) {
