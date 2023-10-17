@@ -1,4 +1,4 @@
-package fiveJava.thread.priority;
+package fiveJava.priority;
 
 public class Main {
     public static void main(String[] args) {

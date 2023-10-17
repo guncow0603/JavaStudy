@@ -1,4 +1,4 @@
-package fiveJava.thread.stat.interrupt;
+package fiveJava.stat.interrupt;
 
 //public class Main {
 //    public static void main(String[] args) {

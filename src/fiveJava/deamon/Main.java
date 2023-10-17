@@ -1,4 +1,4 @@
-package fiveJava.thread.deamon;
+package fiveJava.deamon;
 
 public class Main {
     public static void main(String[] args) {

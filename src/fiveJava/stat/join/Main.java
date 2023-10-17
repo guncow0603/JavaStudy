@@ -1,4 +1,4 @@
-package fiveJava.thread.stat.join;
+package fiveJava.stat.join;
 
 public class Main {
     public static void main(String[] args) {

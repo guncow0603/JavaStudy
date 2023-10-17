@@ -1,4 +1,4 @@
-package fiveJava.thread;
+package fiveJava.threaed;
 class TestThread extends Thread {
     @Override
     public void run() {

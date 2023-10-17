@@ -1,4 +1,4 @@
-package fiveJava.thread.stat.yield;
+package fiveJava.stat.yield;
 
 public class Main {
     public static void main(String[] args) {

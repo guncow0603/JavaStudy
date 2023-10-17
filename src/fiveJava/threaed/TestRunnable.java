@@ -1,4 +1,4 @@
-package fiveJava.thread;
+package fiveJava.threaed;
 
 class TestRunnable implements Runnable {
     @Override

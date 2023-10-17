@@ -1,4 +1,4 @@
-package fiveJava.thread.multi;
+package fiveJava.multi;
 
 public class Main {
     //예측 할 수 없다.

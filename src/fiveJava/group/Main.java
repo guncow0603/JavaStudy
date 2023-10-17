@@ -1,4 +1,4 @@
-package fiveJava.thread.group;
+package fiveJava.group;
 
 public class Main {
     public static void main(String[] args) {
