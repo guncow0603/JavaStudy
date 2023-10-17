@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="538d2016-3259-4c23-88bc-bf70a6b23f7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fiveJava/thread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fiveJava/thread/TestRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fiveJava/thread/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="538d2016-3259-4c23-88bc-bf70a6b23f7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697194422927</updated>
       <workItem from="1697522525819" duration="2777000" />
+      <workItem from="1697525946925" duration="422000" />
     </task>
     <servers />
   </component>
