@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="538d2016-3259-4c23-88bc-bf70a6b23f7a" name="Changes" comment="" />
+    <list default="true" id="538d2016-3259-4c23-88bc-bf70a6b23f7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fiveJava/thread/deamon/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2WhoxacofvSH81RCx4X0mvnS0se" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697194422927</updated>
       <workItem from="1697522525819" duration="2777000" />
-      <workItem from="1697525946925" duration="422000" />
+      <workItem from="1697525946925" duration="1098000" />
     </task>
     <servers />
   </component>
