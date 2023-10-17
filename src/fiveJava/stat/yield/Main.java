@@ -26,6 +26,5 @@ public class Main {
         }
 
         thread1.interrupt();
-
     }
 }
