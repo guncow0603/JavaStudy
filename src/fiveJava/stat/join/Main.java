@@ -9,7 +9,6 @@ public class Main {
                 e.printStackTrace();
             }
         };
-
         Thread thread = new Thread(task, "thread");
 
         thread.start();
