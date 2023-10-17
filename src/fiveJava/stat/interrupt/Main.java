@@ -35,7 +35,6 @@ public class Main {
             }
             System.out.println("task : " + Thread.currentThread().getName());
         };
-
         Thread thread = new Thread(task, "Thread");
         thread.start();
 
