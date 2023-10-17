@@ -38,6 +38,5 @@ public class Main {
 
         // interrupt()는 일시정지 상태인 쓰레드를 실행대기 상태로 만듭니다.
         group1.interrupt();
-
     }
 }
