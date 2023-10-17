@@ -13,6 +13,7 @@ public class Generic<T> {
         this.t = t;
     }
 
+
     public static void main(String[] args) {
         // 4.
         Generic<String> stringGeneric = new Generic<>();
@@ -20,6 +21,7 @@ public class Generic<T> {
         stringGeneric.set("Hello World");
 
         String tValueTurnOutWithString = stringGeneric.get();
+
 
         System.out.println(tValueTurnOutWithString);
     }
