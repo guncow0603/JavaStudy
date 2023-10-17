@@ -12,6 +12,7 @@ public class Main {
         Thread thread1 = new Thread(task);
         thread1.setName("thread1");
 
+
         thread1.start();
     }
 }
